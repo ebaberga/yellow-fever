@@ -27,6 +27,9 @@
 <img src="tree(yellow fever).jpg" >
 <h4>Things I understood from the Phylogenetic tree:</h4>
 <ul>
+<li>The first Yello Fever outbreak was in Brazil 1955, and it is very different from that of the other outbreaks we have on the tree.</li>
+<li>The majority of the outbreaks occured in West Africa since the year 1955 to 2005. </li>
+<li>The virus doesn't jump from region to region very often, instead it stays in the area for a long time.</li>
 <li></li>
 </ul>
 <li>If you are wondering ....... why?</li>
