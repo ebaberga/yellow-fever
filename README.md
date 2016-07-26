@@ -19,17 +19,22 @@
   <li>Brazil</li>
   <li>Mali</li>
   <li>Nigeria</li>
+  <li>Gambia</li>
+  <li>Mauritania</li>
+  <li>Uganda</li>
 </ul>
-<h3>The following is my initial hypothesis:</h3>
+<h3>The following phylogenetic tree demostrate the distribution of different Yellow Fever outbreaks in different parts of Africa and Brazil based on the year they occured and the nucleiotide squence that helped make the virus:</h3>
+<img src="tree(yellow fever).jpg" >
+<h4>Things I understood from the Phylogenetic tree:</h4>
 <ul>
-<li>Before drawing my tree, I thought locations played a significant role in the distribution of of yellow fever virus across Africa and Brazil.In other words, West African countries tends to have similar outbreak with Brazil than other East African countries. </li>
+<li></li>
 </ul>
 <li>If you are wondering ....... why?</li>
 <ul>
 <li>Pangea can explain alot why West African countries should have similar outbreaks as Brazil than other East African counties, if the distribution of Yellow Fever Virus was related to enviromental factors</li>
 </ul>
 <p>click on the following link to learn more about Pangea<a href="https://en.wikipedia.org/wiki/Pangaea">&nbsp&nbsp&nbsp&nbspPANGEA</a></p>
-<img src="yellowfever_fullgenome_AfrSA.png" >
+
 </body>
 </html>
 
