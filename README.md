@@ -33,11 +33,6 @@
 <li>The virus doesn't jump from region to region very often, instead it stays in the area for a long time.</li>
 <li></li>
 </ul>
-<li>If you are wondering ....... why?</li>
-<ul>
-<li>Pangea can explain alot why West African countries should have similar outbreaks as Brazil than other East African counties, if the distribution of Yellow Fever Virus was related to enviromental factors</li>
-</ul>
-<p>click on the following link to learn more about Pangea<a href="https://en.wikipedia.org/wiki/Pangaea">&nbsp&nbsp&nbsp&nbspPANGEA</a></p>
 
 </body>
 </html>
