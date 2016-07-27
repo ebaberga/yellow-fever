@@ -4,6 +4,7 @@
 <link rel="stylesheet" type="text/css" href="eba.css">
 <body>
 <h1>Yellow-Fever outbreaks in Africa and South America</h1>
+<p>Click this link to go to my website:<a href ="https://ebaberga.github.io/yellow-fever"> YELLOWFEVER</a></p>
 <h2>Project Question:</h3>
 <ol>
 <li>How similar or Different is the yellow fever outbreaks in Africa and Brazil?</li>
