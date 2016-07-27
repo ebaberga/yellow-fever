@@ -26,13 +26,18 @@
 </ul>
 <h3>The following phylogenetic tree demostrate the distribution of different Yellow Fever outbreaks in different parts of Africa and Brazil based on the year they occured and the nucleiotide squence that helped make the virus:</h3>
 <img src="tree(yellow fever).jpg" >
-<h4>Things I understood from the Phylogenetic tree:</h4>
+<h4>Things I understood from my Phylogenetic tree:</h4>
 <ul>
 <li>The first Yello Fever outbreak was in Brazil 1955, and it is very different from that of the other outbreaks we have on the tree.</li>
 <li>The majority of the outbreaks occured in West Africa since the year 1955 to 2005. </li>
 <li>The virus doesn't jump from region to region very often, instead it stays in the area for a long time.</li>
 <li></li>
 </ul>
+<ol>
+<li>How similar or Different is the yellow fever outbreaks in Africa and Brazil?</li>
+</ol>
+<h5>Hypothesis:</h5>
+<p>The Yellow Fever viruses claimed to be the cause of Yellow Fever outbreak in Brazil shares the same last ancestor with the Yellow Fever outbreak virus in Both East and West Africa.</p>
 
 </body>
 </html>
