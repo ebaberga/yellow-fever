@@ -14,7 +14,7 @@
 <h3>Countries I am Specifically interested in:</h2>
 <ul>
   <li>Senegal</li>
-  <li>Ethiopia</li>
+  <li>Ethiopiaa</li>
   <li>Egypt</li>
   <li>Sudan</li>
   <li>Brazil</li>
