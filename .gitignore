@@ -1,2 +1,3 @@
 *.trees
 *.log
+.ipynb_checkpoints
