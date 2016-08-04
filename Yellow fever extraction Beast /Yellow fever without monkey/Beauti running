@@ -1,0 +1,109 @@
+
+                  BEAST v1.8.3, 2002-2016
+       Bayesian Evolutionary Analysis Sampling Trees
+                 Designed and developed by
+   Alexei J. Drummond, Andrew Rambaut and Marc A. Suchard
+                              
+               Department of Computer Science
+                   University of Auckland
+                  alexei@cs.auckland.ac.nz
+                              
+             Institute of Evolutionary Biology
+                  University of Edinburgh
+                     a.rambaut@ed.ac.uk
+                              
+              David Geffen School of Medicine
+           University of California, Los Angeles
+                     msuchard@ucla.edu
+                              
+                Downloads, Help & Resources:
+                 	http://beast.bio.ed.ac.uk
+                              
+Source code distributed under the GNU Lesser General Public License:
+          	http://github.com/beast-dev/beast-mcmc
+                              
+                     BEAST developers:
+	Alex Alekseyenko, Guy Baele, Trevor Bedford, Filip Bielejec, Erik Bloomquist, Matthew Hall,
+	Joseph Heled, Sebastian Hoehna, Denise Kuehnert, Philippe Lemey, Wai Lok Sibon Li,
+	Gerton Lunter, Sidney Markowitz, Vladimir Minin, Michael Defoin Platel,
+          	Oliver Pybus, Chieh-Hsi Wu, Walter Xie
+                              
+                         Thanks to:
+    	Roald Forsberg, Beth Shapiro and Korbinian Strimmer
+
+
+Random number seed: 1470084071436
+
+
+Failed to load parser: dr.inferencexml.trace.GeneralizedHarmonicMeanAnalysisParser
+line = dr.inferencexml.trace.GeneralizedHarmonicMeanAnalysisParser
+
+
+
+Loading additional development parsers from development_parsers.properties, which is additional set of parsers only available for development version ...
+
+WARNING: parser - dr.inferencexml.model.DifferenceParameterParser in development_parsers.properties is duplicated, which is REPLACING the same parser loaded previously.
+
+WARNING: parser - dr.inferencexml.model.SumParameterParser in development_parsers.properties is duplicated, which is REPLACING the same parser loaded previously.
+
+
+Failed to load parser: dr.evomodel.treelikelihood.RootDiscreteStateStatistic
+line = dr.evomodel.treelikelihood.RootDiscreteStateStatistic
+
+
+Failed to load parser: dr.evomodel.epidemiology.casetocase.operators.InfectionBranchGibbsOperator
+line = dr.evomodel.epidemiology.casetocase.operators.InfectionBranchGibbsOperator
+
+WARNING: parser - dr.evomodelxml.operators.SubtreeJumpOperatorParser in development_parsers.properties is duplicated, which is REPLACING the same parser loaded previously.
+
+WARNING: parser - dr.app.beagle.multidimensionalscaling.MultiDimensionalScalingLikelihood in development_parsers.properties is duplicated, which is REPLACING the same parser loaded previously.
+
+Parsing XML file: YellowfeverRNA_skyline.xml
+  File encoding: MacRoman
+Looking for plugins in /Users/eberga/Documents/Yellow Fever project/Yellow fever extraction Beast /plugins
+Read alignment: alignment
+  Sequences = 75
+      Sites = 1512
+   Datatype = nucleotide
+Site patterns 'patterns' created from positions 1-1512 of alignment 'alignment'
+  unique pattern count = 612
+Read attribute patterns, 'country.pattern' for attribute, country
+Creating the tree model, 'treeModel'
+  initial tree topology = ((((((((((((((((GU073146|Yellow_fever_virus|Senegal/Ke/ArD149214/2000|NA|Mosquito|NA|Senegal|2000_extraction,JF912189|Yellow_fever_virus|BeAR646536|NA|Mosquito|NA|Brazil|2001_extraction),GU073153|Yellow_fever_virus|Senegal/Ke/ArD156583/2001|NA|Mosquito|NA|Senegal|2001_extraction),GU073139|Yellow_fever_virus|Senegal/Ka/ArD122522/1996|NA|Mosquito|NA|Senegal|1996_extraction),GU073162|Yellow_fever_virus|Senegal/Ko/ArD114972/1995|NA|Mosquito|NA|Senegal|1995_extraction),GU073159|Yellow_fever_virus|Senegal/Ko/ArD114891/1995|NA|Mosquito|NA|Senegal|1995_extraction),((JX898870|Yellow_fever_virus|ArD121040|NA|Mosquito|NA|Senegal|1996_extraction,JX898871|Yellow_fever_virus|ArD114896|NA|Mosquito|NA|Senegal|1995_extraction),JF912184|Yellow_fever_virus|BeH463676|NA|Human|NA|Brazil|1987_extraction)),((GU073144|Yellow_fever_virus|Senegal/Ke/ArD149194/2000|NA|Mosquito|NA|Senegal|2000_extraction,GU073150|Yellow_fever_virus|Senegal/Ke/ArD149887/2000|NA|Mosquito|NA|Senegal|2000_extraction),HM582849|Yellow_fever_virus|BeH622205|NA|Human|NA|Brazil|2000_extraction)),(GU073141|Yellow_fever_virus|Senegal/Ke/AnD26923/1978|NA|Monkey|NA|Senegal|1978_extraction,JF912180|Yellow_fever_virus|BeH394880|NA|Human|NA|Brazil|1981_extraction)),(((((FJ875519|Yellow_fever_virus|SPAn288184|NA|Monkey|NA|Brazil|2008_extraction,JX012097|Yellow_fever_virus|Sudan2003|NA|Human|NA|Sudan|2003_extraction),GU073151|Yellow_fever_virus|Senegal/Ke/ArD156029/2001|NA|Mosquito|NA|Senegal|2001_extraction),JX898876|Yellow_fever_virus|ArD156468|NA|Mosquito|NA|Senegal|2001_extraction),FJ875520|Yellow_fever_virus|SPAn289568|NA|Monkey|NA|Brazil|2008_extraction),AY960142|Yellow_fever_virus|ArD76320|NA|Mosquito|NA|Senegal|1990)),(((JN620362|Yellow_fever_virus|Uganda_2010|NA|Human|NA|Uganda|2010_10_extraction,JX898879|Yellow_fever_virus|ArD181676|NA|Mosquito|NA|Senegal|2005_extraction),GU073149|Yellow_fever_virus|Senegal/Ke/ArD149815/2000|NA|Mosquito|NA|Senegal|2000_extraction),GU073164|Yellow_fever_virus|Senegal/Ko/ArD114988/1995|NA|Mosquito|NA|Senegal|1995_extraction)),JF912181|Yellow_fever_virus|BeH413820|NA|Human|NA|Brazil|1983_extraction),AY839633|Yellow_fever_virus|ETH2777/Ethiopia61|NA|Unknown|NA|Ethiopia|1961_extraction),(((((FJ875516|Yellow_fever_virus|SPH188057|NA|Human|NA|Brazil|2000_extraction,JF912188|Yellow_fever_virus|BeH622493|NA|Human|NA|Brazil|2000_extraction),(GU073145|Yellow_fever_virus|Senegal/Ke/ArD149213/2000|NA|Mosquito|NA|Senegal|2000_extraction,JF912190|Yellow_fever_virus|BeH655417|NA|Human|NA|Brazil|2002_extraction)),JF912182|Yellow_fever_virus|BeH422973|NA|Human|NA|Brazil|1984_extraction),(((GU073166|Yellow_fever_virus|Senegal/Ko/HD117294/1995|NA|Human|NA|Senegal|1995_extraction,HM582845|Yellow_fever_virus|BeAr527785|NA|Mosquito|NA|Brazil|1994_extraction),AY960144|Yellow_fever_virus|BA_55|NA|Human|NA|Nigeria|1986),(GU073140|Yellow_fever_virus|Senegal/Ka/HD122030/1996|NA|Human|NA|Senegal|1996_extraction,GU073160|Yellow_fever_virus|Senegal/Ko/ArD114896/1995|NA|Mosquito|NA|Senegal|1995_extraction))),JX012103|Yellow_fever_virus|Ethiopia1966d|NA|Mosquito|NA|Ethiopia|1966_extraction)),((((((((((JX898877|Yellow_fever_virus|ArD181464|NA|Mosquito|NA|Senegal|2005_extraction,JX898880|Yellow_fever_virus|ArD181564|NA|Mosquito|NA|Senegal|2005_extraction),GU073147|Yellow_fever_virus|Senegal/Ke/ArD149215/2000|NA|Mosquito|NA|Senegal|2000_extraction),JF912187|Yellow_fever_virus|BeH622205|NA|Human|NA|Brazil|2000_extraction),(GU073157|Yellow_fever_virus|Senegal/Ke/ArD99740/1993|NA|Mosquito|NA|Senegal|1993_extraction,JX898874|Yellow_fever_virus|ArD149194|NA|Mosquito|NA|Senegal|2000_extraction)),(FJ875517|Yellow_fever_virus|SPH258595|NA|Human|NA|Brazil|2004_extraction,JX898873|Yellow_fever_virus|ArD149214|NA|Mosquito|NA|Senegal|2000_extraction)),((AY839632|Yellow_fever_virus|ArD76320/Senegal90|NA|Mosquito|NA|Senegal|1990_extraction,GU073136|Yellow_fever_virus|Mali/Ba/HA872/1987|NA|Human|NA|Mali|1987_extraction),(GU073137|Yellow_fever_virus|Mali/Sa/ArA20267/1987|NA|Mosquito|NA|Mali|1987_extraction,GU073138|Yellow_fever_virus|Mauritania/Ro/HD47471/1987|NA|Human|NA|Mauritania|1987_extraction))),JF912179|Yellow_fever_virus|BeAr378600|NA|Mosquito|NA|Brazil|1980_extraction),GU073156|Yellow_fever_virus|Senegal/Ke/ArD25112/1977|NA|Mosquito|NA|Senegal|1977_extraction),(((((((GU073163|Yellow_fever_virus|Senegal/Ko/ArD114987/1995|NA|Mosquito|NA|Senegal|1995_extraction,JF912186|Yellow_fever_virus|BeH526722|NA|Human|NA|Brazil|1994_extraction),JX898875|Yellow_fever_virus|ArD149815|NA|Mosquito|NA|Senegal|2000_extraction),(GU073161|Yellow_fever_virus|Senegal/Ko/ArD114970/1995|NA|Mosquito|NA|Senegal|1995_extraction,JX898868|Yellow_fever_virus|HD117294|NA|Human|NA|Senegal|1995_extraction)),JF912185|Yellow_fever_virus|BeAr513008|NA|Mosquito|NA|Brazil|1992_extraction),GU073165|Yellow_fever_virus|Senegal/Ko/ArD114989/1995|NA|Mosquito|NA|Senegal|1995_extraction),GU073142|Yellow_fever_virus|Senegal/Ke/ArD121040/1996|NA|Mosquito|NA|Senegal|1996_extraction),GU073155|Yellow_fever_virus|Senegal/Ke/ArD24553/1976|NA|Mosquito|NA|Senegal|1976_extraction)),(((((((GU073143|Yellow_fever_virus|Senegal/Ke/ArD149179/2000|NA|Mosquito|NA|Senegal|2000_extraction,GU073158|Yellow_fever_virus|Senegal/Ko/ARDX/2000|NA|Mosquito|NA|Senegal|2000_extraction),(GU073148|Yellow_fever_virus|Senegal/Ke/ArD149791/2000|NA|Mosquito|NA|Senegal|2000_extraction,HM582843|Yellow_fever_virus|BeH613582|NA|Human|NA|Brazil|1999_extraction)),AY839635|Yellow_fever_virus|ArD76320/Senegal90|NA|Mosquito|NA|Senegal|1990),(((JF912183|Yellow_fever_virus|BeH423602|NA|Human|NA|Brazil|1984_extraction,JX898872|Yellow_fever_virus|ArD114972|NA|Mosquito|NA|Senegal|1995_extraction),AY960138|Yellow_fever_virus|ArA_20628|NA|Mosquito|NA|Mali|1986_extraction),AY960143|Yellow_fever_virus|ArA20628|NA|Mosquito|NA|Mali|1986)),GU073135|Yellow_fever_virus|Gambia/MK/ArD27797/1979|NA|Mosquito|NA|Gambia|1979_extraction),JX012099|Yellow_fever_virus|Ethiopia1961d|NA|Mosquito|NA|Ethiopia|1961_extraction),JX012101|Yellow_fever_virus|Ethiopia1966b|NA|Human|NA|Ethiopia|1966_extraction))),JX012098|Yellow_fever_virus|Ethiopia19Failed to load native NucleotideLikelihoodCore in : /Users/eberga/Documents/Yellow Fever project/Yellow fever extraction Beast 
+Using Java nucleotide likelihood core because java.lang.UnsatisfiedLinkError: no NucleotideLikelihoodCore in java.library.path
+61c|NA|Mosquito|NA|Ethiopia|1961_extraction),(AY839636|Yellow_fever_virus|ETH2777/Ethiopia61|NA|Unknown|NA|Ethiopia|1961,AY960147|Yellow_fever_virus|ETH2777|NA|Human|NA|Ethiopia|1961))
+  tree height = 533.3956378077833
+Bayesian skyline plot: 10 stepwise control points
+Exponential markov model on parameter skyline.popSize (jeffreys=true, reverse=false)
+Using strict molecular clock model.
+Using strict molecular clock model.
+Creating state frequencies model 'frequencies': Initial frequencies = {0.25, 0.25, 0.25, 0.25}
+Creating HKY substitution model. Initial kappa = 2.0
+Creating site model.
+TreeLikelihood(treeModel) using Java nucleotide likelihood core
+  Ignoring ambiguities in tree likelihood.
+  With 612 unique site patterns.
+Branch rate model used: strictClockBranchRates
+Creating state frequencies model 'country.frequencies': Initial frequencies = {0.11111, 0.11111, 0.11111, 0.11111, 0.11111, 0.11111, 0.11111, 0.11111, 0.11111}
+  General Substitution Model (stateCount=9)
+  Using BSSVS General Substitution Model
+Creating site model.
+dr.xml.XMLParseException: Error parsing '<ancestralTreeLikelihood>' element with id, 'country.treeLikelihood':
+Ancestral state functionality is only support when using the BEAGLE library.
+Available from http://github.com/beagle-dev/beagle-lib/
+	at dr.xml.AbstractXMLObjectParser.parseXMLObject(Unknown Source)
+	at dr.xml.XMLParser.convert(Unknown Source)
+	at dr.xml.XMLParser.convert(Unknown Source)
+	at dr.xml.XMLParser.parse(Unknown Source)
+	at dr.app.beast.BeastMain.<init>(Unknown Source)
+	at dr.app.beast.BeastMain.main(Unknown Source)
+Aug 1, 2016 1:41:30 PM dr.app.beast.BeastMain <init>
+SEVERE: Parsing error - poorly formed BEAST file, YellowfeverRNA_skyline.xml:
+Error parsing '<ancestralTreeLikelihood>' element with id, 'country.treeLikelihood':
+Ancestral state functionality is only support when using the BEAGLE library.
+Available from http://github.com/beagle-dev/beagle-lib/
+java.lang.RuntimeException: Terminate
+	at dr.app.beast.BeastMain.<init>(Unknown Source)
+	at dr.app.beast.BeastMain.main(Unknown Source
+BEAST has terminated with an error. Please select QUIT from the menu.
+)
