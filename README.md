@@ -8,7 +8,7 @@
 <h2>Project Question:</h3>
 <ol>
 <li>How similar or Different is the yellow fever outbreaks in Africa and Brazil?</li>
-<li>What can we tell about the host distribution among this countries?</li>
+<li>What can we tell about the host variation among this region?</li>
  
 </ol>
 <h3>Countries I am Specifically interested in:</h2>
@@ -38,16 +38,17 @@
 <h4>Things I understood from my Phylogenetic tree:</h4>
 <ul>
 <li>Most of the mosquito hosts are found in African counties, while most human hosts are found in Brazil.</li>
-<li>The virus tends to stay in a single types of hosts for a long time, it doesn't jump around other hosts often. </li>
-<li>According to my data most of the hosts are mosquitos. So mosquitos could be more compatible with what the virus what to do.</li>
-<li>The demonstrate that it is possible for Yellow Fever virus to jump from one species to another.</li>
+<li>The virus tends to stay in a single type of host for a long time, it doesn't jump around other hosts often. </li>
+<li>According to my data most of the hosts are mosquitos. So mosquitos could be more compatible with the viruses function.</li>
+<li>The tree demonstrate that it is possible for Yellow Fever virus to jump from one species to another.</li>
 </ul>
 <ol>
 <li>How similar or Different is the yellow fever outbreaks in Africa and Brazil?</li>
 </ol>
 <h5>Hypothesis:</h5>
-<p>The Yellow Fever viruses claimed to be the cause of Yellow Fever outbreak in Brazil shares the same last ancestor with the Yellow Fever outbreak virus in Both East and West Africa.</p>
-
+<p>Since the only means for the transmission of the virus from any host to a human being is through mosquitos, the outbreak in both region started when the virus suddenly jumped from a mosquito to a human being.</p>
+<h5>What can we tell about the host variation among this region?</h5>
+<p>The fact that there have been a lot of outbreaks in Africa and Brazil make it sucpious that there is only mosquito hosts in Brazil.</p>
 </body>
 </html>
 
