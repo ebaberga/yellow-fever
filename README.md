@@ -8,7 +8,7 @@
 <h2>Project Question:</h3>
 <ol>
 <li>How similar or Different is the yellow fever outbreaks in Africa and Brazil?</li>
-<li>Which African countries have the same or almost the similar Yellow Fever virus outbreak</li>
+<li>What can we tell about the host distribution among this countries?</li>
  
 </ol>
 <h3>Countries I am Specifically interested in:</h2>
@@ -37,10 +37,10 @@
 <img src="tree(yellow fever).jpg" >
 <h4>Things I understood from my Phylogenetic tree:</h4>
 <ul>
-<li>The first Yello Fever outbreak was in Brazil 1955, and it is very different from that of the other outbreaks we have on the tree.</li>
-<li>The majority of the outbreaks occured in West Africa since the year 1955 to 2005. </li>
-<li>The virus doesn't jump from region to region very often, instead it stays in the area for a long time.</li>
-<li></li>
+<li>Most of the mosquito hosts are found in African counties, while most human hosts are found in Brazil.</li>
+<li>The virus tends to stay in a single types of hosts for a long time, it doesn't jump around other hosts often. </li>
+<li>According to my data most of the hosts are mosquitos. So mosquitos could be more compatible with what the virus what to do.</li>
+<li>The demonstrate that it is possible for Yellow Fever virus to jump from one species to another.</li>
 </ul>
 <ol>
 <li>How similar or Different is the yellow fever outbreaks in Africa and Brazil?</li>
