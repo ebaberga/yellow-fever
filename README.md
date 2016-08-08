@@ -35,7 +35,7 @@
 <li>Beast: to infer evolutionary dynamics from sequence data.</li>
 </ol>
 <h3>The following phylogenetic tree demonstrates the variation of hosts in different parts of Africa and Brazil:</h3>
-<img src="tree(yellow fever).jpg" >
+<img src="finaltree.jpg" >
 <h4>Things I understood from my Phylogenetic tree:</h4>
 <ul>
 <li>Most of the mosquito hosts are found in African counties, while most human hosts are found in Brazil.</li>
