@@ -33,7 +33,7 @@
 <li>Beauti: a companion program in Beast that generate XML file inorder to make the file readable by Beast. </li>
 <li>Beast: to infer evolutionary dynamics from sequence data.</li>
 </ol>
-<h3>The following phylogenetic tree demostrate the distribution of different Yellow Fever outbreaks in different parts of Africa and Brazil based on the year they occured and the nucleiotide squence that helped make the virus:</h3>
+<h3>The following phylogenetic tree demonstrates the variation of hosts in different parts of Africa and Brazil:</h3>
 <img src="tree(yellow fever).jpg" >
 <h4>Things I understood from my Phylogenetic tree:</h4>
 <ul>
