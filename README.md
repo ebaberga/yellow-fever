@@ -1,30 +1,27 @@
 
 
 <html>
-<link rel="stylesheet" type="text/css" href="eba.css">
 <body>
-<h1>Yellow-Fever outbreaks in Africa and South America</h1>
+<h1>My seven week project at the Bedford Lab</h1>
 <p>Click this link to go to my website:<a href ="https://ebaberga.github.io/yellow-fever"> YELLOWFEVER</a></p>
-<h4>For information about Yellow Fever....<a href= ""> HERE</a></h4>
-<h2>Project Question:</h3>
+<h1><b>What did I learned in these seven week:</b></h1>
+<ol>
+<h4> First week and Second week<a href= ""> HERE</a></h4>
+<h4><Third week and Fourth week<a href= ""> HERE</a></h4>
+<h4><Fifth week <a href= ""> HERE</a></h4>
+</ol>
+<h1>What was the problem:</h1>
+<h2>Project Question </h3>
 <ol>
 <li>How similar or Different is the yellow fever outbreaks in Africa and Brazil?</li>
 <li>What can we tell about the host variation among this region?</li>
- 
+<h3>Regions I am Specifically interested in:</h2>
+<ol>
+<li>East Africa <li>
+<li>West Africa <li>
+<li>South America <li>
 </ol>
-<h3>Countries I am Specifically interested in:</h2>
-<ul>
-  <li>Senegal</li>
-  <li>Ethiopia</li>
-  <li>Egypt</li>
-  <li>Sudan</li>
-  <li>Brazil</li>
-  <li>Mali</li>
-  <li>Nigeria</li>
-  <li>Gambia</li>
-  <li>Mauritania</li>
-  <li>Uganda</li>
-</ul>
+<P>The reason I chose these region: There is high population size of Yellow Fever patients in this regions.</p>
 <p>All my sequence are draged from ViPR  http://www.viprbrc.org/brc/vipr_genome_search.spg?method=SubmitForm&blockId=2713&decorator=flavi</p>
 <h3>I used the following application softwares throughout my project to do multiple tasks:</h3>
 <ol>
@@ -34,6 +31,7 @@
 <li>Beauti: a companion program in Beast that generate XML file inorder to make the file readable by Beast. </li>
 <li>Beast: to infer evolutionary dynamics from sequence data.</li>
 </ol>
+<p>Why is these so important to me: I have a dream of pursuing a Computer Engineering degree in the near future. Using this software will broaden my understanding of computers in general, and make me a competitive college applicant.</p>
 <h3>The following phylogenetic tree demonstrates the variation of hosts in different parts of Africa and Brazil:</h3>
 <img src="tree.jpg" >
 <h4>Things I understood from my Phylogenetic tree:</h4>
