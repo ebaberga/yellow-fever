@@ -15,24 +15,26 @@
 <ol>
 <li>How similar or Different is the yellow fever outbreaks in Africa and Brazil?</li>
 <li>What can we tell about the host variation among this region?</li>
-<h3>Regions I am Specifically interested in:</h2>
+<h3>Regions I am Specifically interested in for my project:</h2>
 <ol>
-<li>East Africa <li>
-<li>West Africa <li>
-<li>South America <li>
+<li>East Africa </li>
+<li>West Africa </li>
+<li>South America </li>
 </ol>
 <P>The reason I chose these region: There is high population size of Yellow Fever patients in this regions.</p>
 <p>All my sequence are draged from ViPR  http://www.viprbrc.org/brc/vipr_genome_search.spg?method=SubmitForm&blockId=2713&decorator=flavi</p>
 <h3>I used the following application softwares throughout my project to do multiple tasks:</h3>
 <ol>
-<li>Iphyton: to build my subdata sets https://github.com/ebaberga/yellow-fever/blob/gh-pages/Ipython/Yellow-fever.ipynb </li>
-<li>Geneious: to do my alignments using MAFT and draw a phylogenetic tree using RAFT of the sequences I filtered out using Iphyton.</li>
+<li> Jupyter Notebook: to build my subdata sets https://github.com/ebaberga/yellow-fever/blob/gh-pages/Ipython/Yellow-fever.ipynb </li>
+<li> Geneious: to do my alignments using MAFT and draw a phylogenetic tree using RAFT of the sequences I filtered out using Jupyter Notebook (The first time I did it ).</li>
+<li>Command line: to make my alignments for the 3rd time, and install most of the softwares I used so far.</li>
 <li>Figtree: to graphically view my phylogenetic tree and publish ready figure.</li>
 <li>Beauti: a companion program in Beast that generate XML file inorder to make the file readable by Beast. </li>
 <li>Beast: to infer evolutionary dynamics from sequence data.</li>
 </ol>
-<p>Why is these so important to me: I have a dream of pursuing a Computer Engineering degree in the near future. Using this software will broaden my understanding of computers in general, and make me a competitive college applicant.</p>
-<h3>The following phylogenetic tree demonstrates the variation of hosts in different parts of Africa and Brazil:</h3>
+<p><b>Why is these so important to me: I have a dream of pursuing a Computer Engineering degree in the near future. Using this software will broaden my understanding of computers in general, and make me a competitive college applicant.</b></p>
+<h4>My final tree: </h4>
+<h3>The following phylogenetic tree demonstrates the variation of hosts in East Africa, West Africa, and South America(Brazil and Venezuela):</h3>
 <img src="tree.jpg" >
 <h4>Things I understood from my Phylogenetic tree:</h4>
 <ul>
@@ -41,9 +43,6 @@
 <li>According to my data most of the hosts are mosquitos. So mosquitos could be more compatible with the viruses function.</li>
 <li>The tree demonstrate that it is possible for Yellow Fever virus to jump from one species to another.</li>
 </ul>
-<ol>
-<li>How similar or Different is the yellow fever outbreaks in Africa and Brazil?</li>
-</ol>
 <h5>Hypothesis:</h5>
 <p>Since the only means for the transmission of the virus from any host to a human being is through mosquitos, the outbreak in both region started when the virus suddenly jumped from a mosquito to a human being.</p>
 <ol>
