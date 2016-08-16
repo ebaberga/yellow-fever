@@ -12,8 +12,8 @@
     </header>
 <h1><b>What did I learned in these seven week:</b></h1>
 <ol>
-<h4> First week and Second week<a href= "first.md"> HERE</a></h4>
-<h4>Third week and Fourth week<a href= ""> HERE</a></h4>
+<h4> First and Second week<a href= "first.md"> HERE</a></h4>
+<h4>Third and Fourth week<a href= "third.md"> HERE</a></h4>
 <h4>Fifth week <a href= ""> HERE</a></h4>
 </ol>
 <h1>What was the problem:</h1>
