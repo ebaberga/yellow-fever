@@ -1,5 +1,10 @@
 <html>
 <body>
+<img src="     ">
+<img src="     ">
+<img src="     ">
+<img src="     ">
+<img src="     ">
 <h5>Hypothesis:</h5>
 <p>Since the only means for the transmission of the virus from any host to a human being is through mosquitos, the outbreak in both region started when the virus suddenly jumped from a mosquito to a human being.</p>
 <ol>
