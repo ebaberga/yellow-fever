@@ -38,7 +38,7 @@
 <li>Beauti: a companion program in Beast that generate XML file inorder to make the file readable by Beast. </li>
 <li>Beast: to infer evolutionary dynamics from sequence data.</li>
 </ol>
-<p><b>Why is these so important to me: I have a dream of pursuing a Computer Engineering degree in the near future. Using this software will broaden my understanding of computers in general, and make me a competitive college applicant.</b></p>
+<h4><b>Why is these so important to me: </b></h4><p><b>I have a dream of pursuing a Computer Engineering degree in the near future. Using this software will broaden my understanding of computers in general, and make me a competitive college applicant.</b></p>
 <h4>My final tree: </h4>
 <h3>The following phylogenetic tree demonstrates the variation of hosts in East Africa, West Africa, and South America(Brazil and Venezuela):</h3>
 <img src="tree.jpg" >
