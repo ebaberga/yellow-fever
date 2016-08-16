@@ -49,11 +49,7 @@
 <li>According to my data most of the hosts are mosquitos. So mosquitos could be more compatible with the viruses function.</li>
 <li>The tree demonstrate that it is possible for Yellow Fever virus to jump from one species to another.</li>
 </ul>
-<h5>Hypothesis:</h5>
-<p>Since the only means for the transmission of the virus from any host to a human being is through mosquitos, the outbreak in both region started when the virus suddenly jumped from a mosquito to a human being.</p>
-<ol>
-<li>What can we tell about the host variation among this region?</li>
-</ol>
-<p>The fact that there have been a lot of outbreaks in Africa and Brazil make it suspicious  that almost all viruses in Brazil have a mosquito host not human. So my assumption is that researcher collected samples from Mosquitos in Brazil not humans.</p></body>
+<h4>Figures and Hypothesis</h4><a href = "result.md">here</a>
+<h4>What is next</h4><a href="next.md">here</a>
 </html>
 
