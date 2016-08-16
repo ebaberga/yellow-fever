@@ -3,7 +3,6 @@
 <html>
 <body>
  <h1><b>My seven week project at the Bedford Lab</b></h1>
- <div>
  <header>
         <MARQUEE><img src= "https://microbewiki.kenyon.edu/images/thumb/2/25/YF_Virion.jpg/300px-YF_Virion.jpg"></MARQUEE>
         <a href="https://github.com/ebaberga" class="button"><small>Follow me on</small> GitHub</a>
