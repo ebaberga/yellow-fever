@@ -3,11 +3,13 @@
 <html>
 <body>
  <h1>My seven week project at the Bedford Lab</h1>
- 
+ <div>
+ <header>
         <MARQUEE><img src= "https://microbewiki.kenyon.edu/images/thumb/2/25/YF_Virion.jpg/300px-YF_Virion.jpg"></MARQUEE>
         <a href="https://github.com/ebaberga" class="button"><small>Follow me on</small> GitHub</a>
       
-      
+       </div>
+   </header> 
 <h1><b>What did I learned in these seven week:</b></h1>
 <ol>
 <h4> First and Second week<a href= "first.md"> HERE</a></h4>
