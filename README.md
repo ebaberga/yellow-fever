@@ -39,14 +39,13 @@
 <li>Beast: to infer evolutionary dynamics from sequence data.</li>
 </ol>
 <h4><b>Why is these so important to me: </b></h4><p><b>I have a dream of pursuing a Computer Engineering degree in the near future. Using this software will broaden my understanding of computers in general, and make me a competitive college applicant.</b></p>
-<h4>My final tree: </h4>
-<h3>The following phylogenetic tree demonstrates the variation of hosts in East Africa, West Africa, and South America(Brazil and Venezuela):</h3>
-<img src="tree.jpg" >
+<h3><b>My final tree:</b> </h3>
+<a href="img src="tree.jpg">here</a>
+<h3>The tree demonstrates the variation of sampled hosts in East Africa, West Africa, and South America(Brazil and Venezuela):</h3>
 <h4>Things I understood from my Phylogenetic tree:</h4>
 <ul>
-<li>Most of the mosquito hosts are found in African counties, while most human hosts are found in Brazil.</li>
-<li>The virus tends to stay in a single type of host for a long time, it doesn't jump around other hosts often. </li>
-<li>According to my data most of the hosts are mosquitos. So mosquitos could be more compatible with the viruses function.</li>
+<li>Most mosquito samples are from African counties, while most human samples are from South America(Brazil and Venezuela).</li>
+<li>The virus tends to stay in a specific region for a long time, it doesn't jump around different regions and hosts often. </li>
 <li>The tree demonstrate that it is possible for Yellow Fever virus to jump from one species to another.</li>
 </ul>
 <h4>Figures and Hypothesis</h4><a href = "result.md">here</a>
