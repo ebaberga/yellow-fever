@@ -2,18 +2,18 @@
 
 <html>
 <body>
- <h1>My seven week project at the Bedford Lab</h1>
+ <h1><b>My seven week project at the Bedford Lab</b></h1>
  <div>
  <header>
         <MARQUEE><img src= "https://microbewiki.kenyon.edu/images/thumb/2/25/YF_Virion.jpg/300px-YF_Virion.jpg"></MARQUEE>
         <a href="https://github.com/ebaberga" class="button"><small>Follow me on</small> GitHub</a>
       
-      </div>
-    </header>
+       </div>
+   </header> 
 <h1><b>What did I learned in these seven week:</b></h1>
 <ol>
-<h4> First week and Second week<a href= "first.md"> HERE</a></h4>
-<h4>Third week and Fourth week<a href= ""> HERE</a></h4>
+<h4> First and Second week<a href= "first.md"> HERE</a></h4>
+<h4>Third and Fourth week<a href= "third.md"> HERE</a></h4>
 <h4>Fifth week <a href= ""> HERE</a></h4>
 </ol>
 <h1>What was the problem:</h1>
@@ -31,14 +31,14 @@
 <p>All my sequence are draged from <a href="http://www.viprbrc.org/brc/vipr_genome_search.spg?method=SubmitForm&blockId=2713&decorator=flavi"</a> here </p>
 <h3>I used the following application softwares throughout my project to do multiple tasks:</h3>
 <ol>
-<li> Jupyter Notebook: to build my subdata sets <a href="img src="dataset.png"> here </a> </li>
+<li> Jupyter Notebook: to build my subdata set.</li> <a href="img src=dataset.png"> here </a> 
 <li> Geneious: to do my alignments using MAFT and draw a phylogenetic tree using RAFT of the sequences I filtered out using Jupyter Notebook (The first time I did it ).</li>
 <li>Command line: to make my alignments for the 3rd time, and install most of the softwares I used so far.</li>
 <li>Figtree: to graphically view my phylogenetic tree and publish ready figure.</li>
 <li>Beauti: a companion program in Beast that generate XML file inorder to make the file readable by Beast. </li>
 <li>Beast: to infer evolutionary dynamics from sequence data.</li>
 </ol>
-<p><b>Why is these so important to me: I have a dream of pursuing a Computer Engineering degree in the near future. Using this software will broaden my understanding of computers in general, and make me a competitive college applicant.</b></p>
+<h4><b>Why is these so important to me: </b></h4><p><b>I have a dream of pursuing a Computer Engineering degree in the near future. Using this software will broaden my understanding of computers in general, and make me a competitive college applicant.</b></p>
 <h4>My final tree: </h4>
 <h3>The following phylogenetic tree demonstrates the variation of hosts in East Africa, West Africa, and South America(Brazil and Venezuela):</h3>
 <img src="tree.jpg" >
@@ -49,11 +49,7 @@
 <li>According to my data most of the hosts are mosquitos. So mosquitos could be more compatible with the viruses function.</li>
 <li>The tree demonstrate that it is possible for Yellow Fever virus to jump from one species to another.</li>
 </ul>
-<h5>Hypothesis:</h5>
-<p>Since the only means for the transmission of the virus from any host to a human being is through mosquitos, the outbreak in both region started when the virus suddenly jumped from a mosquito to a human being.</p>
-<ol>
-<li>What can we tell about the host variation among this region?</li>
-</ol>
-<p>The fact that there have been a lot of outbreaks in Africa and Brazil make it suspicious  that almost all viruses in Brazil have a mosquito host not human. So my assumption is that researcher collected samples from Mosquitos in Brazil not humans.</p></body>
+<h4>Figures and Hypothesis</h4><a href = "result.md">here</a>
+<h4>What is next</h4><a href="next.md">here</a>
 </html>
 
