@@ -3,13 +3,11 @@
 <html>
 <body>
  <h1>My seven week project at the Bedford Lab</h1>
- <div>
- <header>
+ 
         <MARQUEE><img src= "https://microbewiki.kenyon.edu/images/thumb/2/25/YF_Virion.jpg/300px-YF_Virion.jpg"></MARQUEE>
         <a href="https://github.com/ebaberga" class="button"><small>Follow me on</small> GitHub</a>
       
-      </div>
-    </header>
+      
 <h1><b>What did I learned in these seven week:</b></h1>
 <ol>
 <h4> First and Second week<a href= "first.md"> HERE</a></h4>
@@ -31,7 +29,7 @@
 <p>All my sequence are draged from <a href="http://www.viprbrc.org/brc/vipr_genome_search.spg?method=SubmitForm&blockId=2713&decorator=flavi"</a> here </p>
 <h3>I used the following application softwares throughout my project to do multiple tasks:</h3>
 <ol>
-<li> Jupyter Notebook: to build my subdata set.</li> <a href="img src="dataset.png"> here </a> 
+<li> Jupyter Notebook: to build my subdata set.</li> <a href="img src=dataset.png"> here </a> 
 <li> Geneious: to do my alignments using MAFT and draw a phylogenetic tree using RAFT of the sequences I filtered out using Jupyter Notebook (The first time I did it ).</li>
 <li>Command line: to make my alignments for the 3rd time, and install most of the softwares I used so far.</li>
 <li>Figtree: to graphically view my phylogenetic tree and publish ready figure.</li>
