@@ -1,0 +1,31 @@
+
+Operator analysis
+Operator                                          Tuning   Count      Time     Time/Op  Pr(accept) 
+scale(kappa)                                      0.659   57422      202138   3.52     0.2346      
+frequencies                                       0.044   57449      201753   3.51     0.2348      
+scale(yf_addtlSeqs_E1Gene.clock.rate)             0.846   1716031    6114710  3.56     0.2338      
+scale(host.clock.rate)                            0.217   1717268    1220149  0.71     0.2343      
+scale(country.clock.rate)                         0.389   1717740    4986990  2.9      0.2341      
+scale(region.clock.rate)                          0.186   1715809    1233962  0.72     0.2342      
+subtreeSlide(treeModel)                           77.89   8584272    10368747 1.21     0.234       
+Narrow Exchange(treeModel)                                8586831    8606579  1.0      0.2795      
+Wide Exchange(treeModel)                                  1714324    772891   0.45     0.0043      
+wilsonBalding(treeModel)                                  1716786    2512906  1.46     0.0075      
+scale(treeModel.rootHeight)                       0.756   1717355    1522853  0.89     0.2337      
+uniform(nodeHeights(treeModel))                           17171318   26525908 1.54     0.5577      
+scale(skyline.popSize)                            0.32    8583575    58225076 6.78     0.234       
+skyline.groupSize                                         3431892    1384973  0.4      0.4618      
+up:yf_addtlSeqs_E1Gene.clock.rate down:nodeHeights(treeModel) 0.994   1715138    4969590  2.9      0.234       
+up:host.clock.rate down:nodeHeights(treeModel)    0.993   1715784    4995504  2.91     0.234       
+up:country.clock.rate down:nodeHeights(treeModel) 0.993   1716951    5057052  2.95     0.2339      
+up:region.clock.rate down:nodeHeights(treeModel)  0.993   1716092    5113095  2.98     0.2341      
+scale(host.rates)                                 0.438   859636     599510   0.7      0.2343      
+bitFlip(host.indicators)                                  400527     247768   0.62     0.1885      
+scale(country.rates)                              0.998   858410     1499878  1.75     0.2314      
+bitFlip(country.indicators)                               400536     726392   1.81     0.0642      
+scale(region.rates)                               0.775   857305     608942   0.71     0.2343      
+bitFlip(region.indicators)                                400274     238009   0.59     0.3122      
+host.root.frequencies                             1.629   57190      10036    0.18     0.2349      
+country.root.frequencies                          0.341   56908      39349    0.69     0.2341      
+region.root.frequencies                           1.134   57177      11046    0.19     0.2337      
+

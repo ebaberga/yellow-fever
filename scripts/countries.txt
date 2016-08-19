@@ -1,0 +1,13 @@
+Senegal 14	-14
+Ethiopia 8	38
+Brazil -10	-55
+Gambia	13.28	-16.34
+Nigeria  10	8
+Venezuela 8	-66
+Angola	-12.30	18.30	
+Guinea	11	-10
+Kenya	1	38
+Sudan	13.48	30
+Uganda 	1	32	
+Mauritania 20	-12
+Mali	17	-4
