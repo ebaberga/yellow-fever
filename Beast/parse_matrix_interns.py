@@ -23,7 +23,7 @@ parrot.add_argument('-xml', type=str, help=".xml to pull region (& host) states 
 args = vars(parrot.parse_args())
 burnin, logfile, xmlfile, cutoff = args['burnin'], open(args['logfile'], 'r'), open(args['xml'], 'r'), args['cutoff']
 
-log_data = pd.read_csv(logfile, skiprows=2, sep="\t", index_col='state')	#parse the log file as a df
+log_data = pd.read_csv(logfile, skiprows=3, sep="\t", index_col='state')	#parse the log file as a df
 logfile.close()
 
 
@@ -55,17 +55,27 @@ assert burnin in log_data.index, ('ERROR: burnin must be a sampled state. Valid 
 burnin_indices = [range(0, log_data.index.get_loc(burnin)+1)] #drop (inclusively) all states before the specified burnin state.
 log_data.drop(log_data.index[burnin_indices], inplace=True)
 
-for i in range(1, (n_hosts+1)**2):
-	if 'host.rates%d'%i in log_data.columns.values:
-		log_data['host.actualRates%d'%i] = log_data['host.rates%d'%i]*log_data['host.indicators%d'%i]
-	else:
-		continue
+for i in host_list:
+	for j in host_list:
+		if i == j:
+			continue
+		else:
+			if 'host.rates.%s.%s'%(i,j) in log_data.columns.values:
+				log_data['host.actualRates.%s.%s'%(i,j)] = log_data['host.rates.%s.%s'%(i,j)]*log_data['host.indicators.%s.%s'%(i,j)]
+			else:
+				continue
 		
-for i in range(1, (n_regions+1)**2):
-	if 'region.rates%d'%i in log_data.columns.values:
-		log_data['region.actualRates%d'%i] = log_data['region.rates%d'%i]*log_data['region.indicators%d'%i]
-	else:
-		continue
+for i in region_list:
+	for j in region_list:
+		if i == j:
+			continue
+		else:
+			if 'region.rates.%s.%s'%(i,j) in log_data.columns.values:
+				log_data['region.actualRates.%s.%s'%(i,j)] = log_data['region.rates.%s.%s'%(i,j)]*log_data['region.indicators.%s.%s'%(i,j)]
+			else:
+				continue
+
+print log_data.columns.values
 
 log_data = log_data.append(pd.DataFrame(log_data.mean(), columns=['avg']).T)	#get the average posterior values for each column
 
