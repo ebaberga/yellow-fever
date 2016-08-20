@@ -3,7 +3,7 @@
 <html>
 <body>
  <h1><b>Phylogenetic and evolutionary relationships among yellow fever virus isolates in Africa and South America </b></h1>
- <header>
+ <img src="http://www.historyofvaccines.org/sites/default/files/uploaded-timeline-overview-images/000425_265.jpg" alt="Mountain View" style="width:250px;height:25px;">
         <MARQUEE><img src= "https://microbewiki.kenyon.edu/images/thumb/2/25/YF_Virion.jpg/300px-YF_Virion.jpg"></MARQUEE>
         <a href="https://github.com/ebaberga" class="button"><small>Follow me on</small> GitHub</a>
       
@@ -19,14 +19,15 @@
 <ol>
 <li>How similar or Different is the yellow fever outbreaks in different regions of the world?</li>
 <li>What can we tell about the host variation among this regions?</li>
-<h3>Targeted regions for my project:</h2>
+<h3>Targeted regions of my project:</h2>
 <ol>
 <li>East Africa </li>
 <li>West Africa </li>
 <li>South America </li>
 </ol>
-<P><b>The reason I chose these regions is because these regions have redundant outbreaks of Yellow Fever since it was dicovered in 1927.</b></p>
 
+<P><b>The reason I chose these regions is because they have redundant outbreaks of Yellow Fever since its discovery, 1927.</b></p>
+<h2><b>Steps towards building a phylogenetic tree for Yellow Fever:</b></h2>
 <p>All my sequence are draged from <a href="http://www.viprbrc.org/brc/vipr_genome_search.spg?method=SubmitForm&blockId=2713&decorator=flavi"</a> here </p>
 <h3>I used the following application softwares throughout my project to do multiple tasks:</h3>
 <ol>
