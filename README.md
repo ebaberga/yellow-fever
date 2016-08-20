@@ -9,12 +9,7 @@
       
      
    </header> 
-<h2><b>Review of what I did in the Bedford lab:</b></h2>
-<ol>
-<h4> First and Second week<a href= "first.md"> HERE</a></h4>
-<h4>Third and Fourth week<a href= "third.md"> HERE</a></h4>
-<h4>Fifth week <a href= ""> HERE</a></h4>
-</ol>
+
 <h2>Project Question </h3>
 <ol>
 <li>How similar or Different is the yellow fever outbreaks in different regions of the world?</li>
@@ -27,11 +22,10 @@
 </ol>
 
 <P><b>The reason I chose these regions is because they have redundant outbreaks of Yellow Fever since its discovery, 1927.</b></p>
-<h2><b>Steps towards building a phylogenetic tree for Yellow Fever:</b></h2>
-<p>All my sequence are draged from <a href="http://www.viprbrc.org/brc/vipr_genome_search.spg?method=SubmitForm&blockId=2713&decorator=flavi"</a> here </p>
-<h3>I used the following application softwares throughout my project to do multiple tasks:</h3>
+<h2><b>Steps towards building a phylogenetic tree for Yellow Fever virus in Africa and SouthAmerica(Brazil & Venezuela):</b></h2>
 <ol>
-<li> Jupyter Notebook: to build my subdata set.</li> <a href="img src=dataset.png"> here </a> 
+<li> Downloaded sequences of Yellow Fever viruses from Africa and Brazil. <a href="http://www.viprbrc.org/brc/vipr_genome_search.spg?method=SubmitForm&blockId=2713&decorator=flavi"</a> here</li>
+<li> Built a python scrip using Jupyter Notebook to extract sequences that have a host that is a monkey, humanbeing or mosquito, and sequences that are found in Afica, Brazil or Venezuela.</li> <a href="img src=dataset.png"> here </a> 
 <li> Geneious: to do my alignments using MAFT and draw a phylogenetic tree using RAFT of the sequences I filtered out using Jupyter Notebook (The first time I did it ).</li>
 <li>Command line: to make my alignments for the 3rd time, and install most of the softwares I used so far.</li>
 <li>Figtree: to graphically view my phylogenetic tree and publish ready figure.</li>
@@ -50,5 +44,11 @@
 </ul>
 <h4>Figures and Hypothesis</h4><a href = "result.md">here</a>
 <h4>What is next</h4><a href="next.md">here</a>
+<h2><b>Review of what I did in the Bedford lab:</b></h2>
+<ol>
+<h4> First and Second week<a href= "first.md"> HERE</a></h4>
+<h4>Third and Fourth week<a href= "third.md"> HERE</a></h4>
+<h4>Fifth week <a href= ""> HERE</a></h4>
+</ol>
 </html>
 
