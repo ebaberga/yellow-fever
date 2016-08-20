@@ -10,7 +10,7 @@
      
    </header> 
 
-<h2>Project Question </h3>
+<h2><b>Project Question </b></h3>
 <ol>
 <li>How similar or Different is the yellow fever outbreaks in different regions of the world?</li>
 <li>What can we tell about the host variation among this regions?</li>
@@ -28,9 +28,9 @@
 <li> Made a python script using Jupyter Notebook that extracts sequences with a host of monkey, human being or mosquito, and sequences with a countries in  Africa and South America (Brazil & Venezuela).</li> 
 <a href="img src=dataset.png"> here </a> 
 <li> Imported my out put file from the script to Geneious. Then used MAFT in Geneious to do my alignments and RAFT to draw a tree. I used command line to do my aligment the second time. </li>
-<li>Imported my alignment from from Geneious to Beauti inorder to add traits I want to express in my tree,country, host and region, and convert the file from .fasta to .xml. </li>
-<li>Beast: to infer evolutionary dynamics from sequence data.</li>
-<li></li>
+<li>Imported my alignment.fasta file from Geneious to Beauti inorder to add traits I wanted to express in my tree,country, host and region, and to convert the extension of the file from .fasta to .xml. </li>
+<li>Run Beast to infer evolutionary dynamics from sequence data.</li>
+<li>Created an mmc file using tree annotator, and displayed it with Figtree.</li>
 </ol>
 <h4><b>Why is these so important to me: </b></h4><p><b>I have a dream of pursuing a Computer Engineering degree in the near future. Using this software will broaden my understanding of computers in general, and make me a competitive college applicant.</b></p>
 <h3><b>My final tree:</b> </h3>
