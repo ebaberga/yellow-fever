@@ -2,31 +2,31 @@
 
 <html>
 <body>
- <h1><b>My seven week project at the Bedford Lab</b></h1>
+ <h1><b>Phylogenetic and evolutionary relationships among yellow fever virus isolates in Africa and South America </b></h1>
  <header>
         <MARQUEE><img src= "https://microbewiki.kenyon.edu/images/thumb/2/25/YF_Virion.jpg/300px-YF_Virion.jpg"></MARQUEE>
         <a href="https://github.com/ebaberga" class="button"><small>Follow me on</small> GitHub</a>
       
-       </div>
+     
    </header> 
-<h1><b>What did I learned in these seven week:</b></h1>
+<h2><b>Review of what I did in the Bedford lab:</b></h2>
 <ol>
 <h4> First and Second week<a href= "first.md"> HERE</a></h4>
 <h4>Third and Fourth week<a href= "third.md"> HERE</a></h4>
 <h4>Fifth week <a href= ""> HERE</a></h4>
 </ol>
-<h1>What was the problem:</h1>
 <h2>Project Question </h3>
 <ol>
 <li>How similar or Different is the yellow fever outbreaks in different regions of the world?</li>
 <li>What can we tell about the host variation among this regions?</li>
-<h3>Regions I am Specifically interested in for my project:</h2>
+<h3>Targeted regions for my project:</h2>
 <ol>
 <li>East Africa </li>
 <li>West Africa </li>
 <li>South America </li>
 </ol>
-<P><b>The reason I chose these regions: There is high population size of Yellow Fever patients in this regions.</b></p>
+<P><b>The reason I chose these regions is because these regions have redundant outbreaks of Yellow Fever since it was dicovered in 1927.</b></p>
+
 <p>All my sequence are draged from <a href="http://www.viprbrc.org/brc/vipr_genome_search.spg?method=SubmitForm&blockId=2713&decorator=flavi"</a> here </p>
 <h3>I used the following application softwares throughout my project to do multiple tasks:</h3>
 <ol>
