@@ -1,6 +1,11 @@
 #Phylogenetic and evolutionary relationships among yellow fever virus isolates in Africa and South America
+
+####Eden Berga<sup>1,2</sup>, Sidney Bell<sup>1,3</sup>, Trevor Bedford<sup>1</sup>
+
+<sup>1</sup>Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA, <sup>2</sup>Mount Rainier High School, Des Moines, WA, USA, <sup>3</sup>Molecular and Cellular Biology Graduate Program, University of Washington, Seattle, WA, USA
+
 ![alt text](http://www.historyofvaccines.org/sites/default/files/uploaded-timeline-overview-images/000425_265.jpg)
-[Follow me on Github](https://github.com/ebaberga)
+
 ##Project Questions
 1. How similar or Different is yellow fever outbreaks in Africa and South America?
 2. What can we tell about the host variation among this regions?
@@ -24,4 +29,6 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 * The virus tends to stay in a specific region for a long time, it doesn't jump around different regions and hosts often.
 * The tree demonstrate that it is possible for Yellow Fever virus to jump from one species to another.
 
-![alt text] (first.md)
+##Pages
+* [First and second week](first.md)
+* [Third and fourth week](third.md)
