@@ -24,13 +24,13 @@
 <P><b>The reason I chose these regions is because they have redundant outbreaks of Yellow Fever since its discovery, 1927.</b></p>
 <h2><b>Steps towards building a phylogenetic tree for Yellow Fever virus in Africa and SouthAmerica(Brazil & Venezuela):</b></h2>
 <ol>
-<li> Downloaded sequences of Yellow Fever viruses from Africa and Brazil. <a href="http://www.viprbrc.org/brc/vipr_genome_search.spg?method=SubmitForm&blockId=2713&decorator=flavi"</a> here</li>
-<li> Built a python scrip using Jupyter Notebook to extract sequences that have a host that is a monkey, humanbeing or mosquito, and sequences that are found in Afica, Brazil or Venezuela.</li> <a href="img src=dataset.png"> here </a> 
-<li> Geneious: to do my alignments using MAFT and draw a phylogenetic tree using RAFT of the sequences I filtered out using Jupyter Notebook (The first time I did it ).</li>
-<li>Command line: to make my alignments for the 3rd time, and install most of the softwares I used so far.</li>
-<li>Figtree: to graphically view my phylogenetic tree and publish ready figure.</li>
-<li>Beauti: a companion program in Beast that generate XML file inorder to make the file readable by Beast. </li>
+<li> Downloaded sequences of Yellow Fever virus from Africa and Brazil. <a href="http://www.viprbrc.org/brc/vipr_genome_search.spg?method=SubmitForm&blockId=2713&decorator=flavi"</a> here</li>
+<li> Made a python script using Jupyter Notebook that extracts sequences with a host of monkey, human being or mosquito, and sequences with a countries in  Africa and South America (Brazil & Venezuela).</li> 
+<a href="img src=dataset.png"> here </a> 
+<li> Imported my out put file from the script to Geneious. Then used MAFT in Geneious to do my alignments and RAFT to draw a tree. I used command line to do my aligment the second time. </li>
+<li>Imported my alignment from from Geneious to Beauti inorder to add traits I want to express in my tree,country, host and region, and convert the file from .fasta to .xml. </li>
 <li>Beast: to infer evolutionary dynamics from sequence data.</li>
+<li></li>
 </ol>
 <h4><b>Why is these so important to me: </b></h4><p><b>I have a dream of pursuing a Computer Engineering degree in the near future. Using this software will broaden my understanding of computers in general, and make me a competitive college applicant.</b></p>
 <h3><b>My final tree:</b> </h3>
