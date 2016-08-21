@@ -1,11 +1,12 @@
-#Phylogenetic and evolutionary relationships among yellow fever virus isolates in Africa and South America
+#Phylogenetic and evolutionary relationships among Yellow Fever virus isolates in Africa and South America
 
 ####Eden Berga<sup>1,2</sup>, Sidney Bell<sup>1,3</sup>, Trevor Bedford<sup>1</sup>
 
 <sup>1</sup>Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA, <sup>2</sup>Mount Rainier High School, Des Moines, WA, USA, <sup>3</sup>Molecular and Cellular Biology Graduate Program, University of Washington, Seattle, WA, USA
 
 ![alt text](http://www.historyofvaccines.org/sites/default/files/uploaded-timeline-overview-images/000425_265.jpg)
-
+##Introduction
+During my stay at the Bedfor Lab I have worked on building a Phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project I intend to show the possible differences and similarities of the virus in these regions, and make a phylogeography. 
 ##Project Questions
 1. How similar or Different is yellow fever outbreaks in Africa and South America?
 2. What can we tell about the host variation among this regions?
@@ -23,6 +24,10 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 4.  Imported my alignment.fasta file from Geneious to Beauti inorder to add traits I wanted to express in my tree,country, host and region, and to convert the extension of the file from .fasta to .xml.
 5.  Run Beast to infer evolutionary dynamics from sequence data.
 6.  Created an mmc file using tree annotator, and displayed it with Figtree.
+
+##Tree arranged by Country [![alt text](Countrytree.png)]
+
+##Tree arrange by Region  [![alt text](Regiontree.png)]
 
 ####Things I understood from my Phylogenetic tree:
 * Most mosquito samples are from African counties, while most human samples are from South America(Brazil and Venezuela).
