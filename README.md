@@ -5,6 +5,9 @@
 <sup>1</sup>Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA, <sup>2</sup>Mount Rainier High School, Des Moines, WA, USA, <sup>3</sup>Molecular and Cellular Biology Graduate Program, University of Washington, Seattle, WA, USA
 
 ![alt text](http://www.historyofvaccines.org/sites/default/files/uploaded-timeline-overview-images/000425_265.jpg)
+
+For more information about Yellow Fever [click here] (https://github.com/ebaberga/yellow-fever/blob/gh-pages/first.md)
+
 ##Introduction
 During my stay at the Bedfor Lab I have worked on building a Phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project I intend to show the possible differences and similarities of the virus in these regions, and make a phylogeography. 
 ##Project Questions
@@ -29,11 +32,9 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 
 ##Tree arrange by Region  [![alt text](Regiontree.png)]
 
-####Things I understood from my Phylogenetic tree:
+####Things I understood from my Phylogenetic trees:
 * Most mosquito samples are from African counties, while most human samples are from South America(Brazil and Venezuela).
-* The virus tends to stay in a specific region for a long time, it doesn't jump around different regions and hosts often.
-* The tree demonstrate that it is possible for Yellow Fever virus to jump from one species to another.
+* The virus tends to stay in a one region for a long time.
+*  The virus to jump from one species to another.
 
-##Pages
-* [First and second week](first.md)
-* [Third and fourth week](third.md)
+
