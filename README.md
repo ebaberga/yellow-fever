@@ -32,6 +32,8 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 
 ##Tree arrange by Region  [![alt text](Regiontree.png)]
 
+##Tree arrange by Host  [![alt text](Host.png)]
+
 ####Things I understood from my Phylogenetic trees:
 * Most mosquito samples are from African counties, while most human samples are from South America(Brazil and Venezuela).
 * The virus tends to stay in a one region for a long time.
