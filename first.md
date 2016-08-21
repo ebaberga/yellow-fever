@@ -12,6 +12,6 @@
 3. Urban cycle: is the transmission of YFV from human to A.aegyptis.
 
 ## Symptoms of Yellow Fever:
-* It takes 6-8 days for the symptoms to show up during these time the infection will spread.
+* It takes 6-8 days for the symptoms to show up, and during these time the infection will spread.
 * Initial symptoms include sudden onset of fever, chills, headache, backpain, nausea, vomiting...
 * After a day 15% cases go to a more severe form of disease like Jaundice, bleeding, shock, organ failure.....
