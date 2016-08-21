@@ -1,4 +1,4 @@
-#Phylogenetic and evolutionary relationships among yellow fever virus isolates in Africa and South America
+#Phylogenetic and evolutionary relationships among Yellow Fever virus isolates in Africa and South America
 
 ####Eden Berga<sup>1,2</sup>, Sidney Bell<sup>1,3</sup>, Trevor Bedford<sup>1</sup>
 
@@ -6,6 +6,10 @@
 
 ![alt text](http://www.historyofvaccines.org/sites/default/files/uploaded-timeline-overview-images/000425_265.jpg)
 
+For more information about Yellow Fever [click here] (https://github.com/ebaberga/yellow-fever/blob/gh-pages/first.md)
+
+##Introduction
+During my stay at the Bedfor Lab I have worked on building a Phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project I intend to show the possible differences and similarities of the virus in these regions, and make a phylogeography. 
 ##Project Questions
 1. How similar or Different is yellow fever outbreaks in Africa and South America?
 2. What can we tell about the host variation among this regions?
@@ -24,11 +28,16 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 5.  Run Beast to infer evolutionary dynamics from sequence data.
 6.  Created an mmc file using tree annotator, and displayed it with Figtree.
 
-####Things I understood from my Phylogenetic tree:
-* Most mosquito samples are from African counties, while most human samples are from South America(Brazil and Venezuela).
-* The virus tends to stay in a specific region for a long time, it doesn't jump around different regions and hosts often.
-* The tree demonstrate that it is possible for Yellow Fever virus to jump from one species to another.
+##Tree arranged by Country [![alt text](Countrytree.png)]
 
-##Pages
-* [First and second week](first.md)
-* [Third and fourth week](third.md)
+##Tree arrange by Region  [![alt text](Regiontree.png)]
+
+##Tree arrange by Host  [![alt text](Host.png)]
+
+####Things I understood from my Phylogenetic trees:
+* Most mosquito samples are from African counties, while most human samples are from South America(Brazil and Venezuela).
+* The virus tends to stay in a one region for a long time.
+* The virus to jump from one species to another.
+* The virus mostly circulates between monkeys and mosquitos, but the virus sometimes skips that pattern. Outbreaks occur 
+
+
