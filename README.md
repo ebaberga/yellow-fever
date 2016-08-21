@@ -37,6 +37,7 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 ####Things I understood from my Phylogenetic trees:
 * Most mosquito samples are from African counties, while most human samples are from South America(Brazil and Venezuela).
 * The virus tends to stay in a one region for a long time.
-*  The virus to jump from one species to another.
+* The virus to jump from one species to another.
+* The virus mostly circulates between monkeys and mosquitos, but the virus sometimes skips that pattern. Outbreaks occur 
 
 
