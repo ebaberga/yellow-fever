@@ -12,7 +12,8 @@ For more information about Yellow Fever [click here] (https://github.com/ebaberg
 During my stay at the Bedfor Lab I have worked on building a Phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project I intend to show the possible differences and similarities of the virus in these regions, and make a phylogeography. 
 ##Project Questions
 1. How similar or Different is yellow fever outbreaks in Africa and South America?
-2. What can we tell about the host variation among this regions?
+2. What can we say about the distribution of Yellow Fever among this regions, East Africa, West Africa, and South America?
+
 
 ###Targeted regions of my project:
 1. East Africa 
