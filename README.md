@@ -52,3 +52,5 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 * [Host Transition Network](figures/yf_host_network.png)
 * [Region Transition Rate](figures/yf_region_bf.png)
 * [Region Transition Network](figures/yf_region_network.png)
+
+[Phylogeography of Yellow Fever] (https://www.youtube.com/watch?v=YAu4Q_Sr1yg)
