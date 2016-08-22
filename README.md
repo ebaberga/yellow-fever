@@ -38,7 +38,7 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 * Most mosquito samples are taken from African counties, while most human samples are from South America(Brazil and Venezuela).
 * The virus tends to stay in a one region for a long time.
 * The virus jump from one species to another.
-* The virus mostly circulates between monkeys and mosquitos. Outbreaks are caused when the virus skips this pattern, and infect humanbeings.
+* Most of the time the virus goes from mosquitos to humans.
 
 ##Figures
 
