@@ -6,10 +6,12 @@
 
 ![](http://www.historyofvaccines.org/sites/default/files/uploaded-timeline-overview-images/000425_265.jpg)
 
-For more information about Yellow Fever [click here] (https://github.com/ebaberga/yellow-fever/blob/gh-pages/first.md)
 
 ##Introduction
-During my stay at the Bedfor Lab I have worked on building a Phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project I intend to show the possible differences and similarities of the virus in these regions, and make a phylogeography. 
+During my stay at the Bedfor Lab I have worked on building a Phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project I intend to show the differences and similarities the viruses have in these regions, and make a phylogeography to show the distribution.
+
+For more information about Yellow Fever [click here] (https://github.com/ebaberga/yellow-fever/blob/gh-pages/first.md)
+
 ##Project Questions
 1. How similar or Different is yellow fever outbreaks in Africa and South America?
 2. What can we say about the distribution of Yellow Fever among this regions, East Africa, West Africa, and South America?
