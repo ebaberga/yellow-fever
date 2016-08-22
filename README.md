@@ -4,7 +4,7 @@
 
 <sup>1</sup>Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA, <sup>2</sup>Mount Rainier High School, Des Moines, WA, USA, <sup>3</sup>Molecular and Cellular Biology Graduate Program, University of Washington, Seattle, WA, USA
 
-![alt text](http://www.historyofvaccines.org/sites/default/files/uploaded-timeline-overview-images/000425_265.jpg)
+![](http://www.historyofvaccines.org/sites/default/files/uploaded-timeline-overview-images/000425_265.jpg)
 
 For more information about Yellow Fever [click here] (https://github.com/ebaberga/yellow-fever/blob/gh-pages/first.md)
 
@@ -28,11 +28,17 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 5.  Run Beast to infer evolutionary dynamics from sequence data.
 6.  Created an mmc file using tree annotator, and displayed it with Figtree.
 
-##Tree arranged by Country [![alt text](countrytree.png)]
+##Tree arranged by Country
 
-##Tree arrange by Region  [![alt text](Regiontree.png)]
+![](figures/countrytree.png)
 
-##Tree arrange by Host  [![alt text](Host.png)]
+##Tree arrange by Region
+
+![](figures/Regiontree.png)
+
+##Tree arrange by Host
+
+![](figures/Host.png)
 
 ####Things I understood from my Phylogenetic trees:
 * Most mosquito samples are taken from African counties, while most human samples are from South America(Brazil and Venezuela).
@@ -42,8 +48,7 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 
 ##Figures
 
-* [Host Transition Rates] (yf_host_bf.png)
-* [Host Transition Network] (yf_host_network.png)
-* [Region Transition Rate](yf_region_bf.png)
-* [Region Transition Network] (yf_region_network.png)
-
+* [Host Transition Rates](figures/yf_host_bf.png)
+* [Host Transition Network](figures/yf_host_network.png)
+* [Region Transition Rate](figures/yf_region_bf.png)
+* [Region Transition Network](figures/yf_region_network.png)
