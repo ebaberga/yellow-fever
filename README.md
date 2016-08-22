@@ -13,7 +13,7 @@ During my stay at the Bedfor Lab I have worked on building a Phylogenetic tree f
 For more information about Yellow Fever [click here] (https://github.com/ebaberga/yellow-fever/blob/gh-pages/first.md)
 
 ##Project Questions
-1. How similar or Different is yellow fever outbreaks in Africa compared to South America?
+1. How similar or Different are yellow fever outbreaks in Africa compared to South America?
 2. What can we say about the distribution of Yellow Fever among this regions, East Africa, West Africa, and South America?
 
 
