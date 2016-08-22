@@ -20,7 +20,7 @@ For more information about Yellow Fever [click here] (https://github.com/ebaberg
 ###Targeted regions of my project:
 1. East Africa 
 2. West Africa
-3. South Africa
+3. South America
 
 _The reason I chose these regions is because they have redundant outbreaks of Yellow Fever since its discovery in 1927._
 ###Steps towards building my phylogenetic tree:
