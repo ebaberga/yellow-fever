@@ -6,18 +6,21 @@
 
 ![](http://www.historyofvaccines.org/sites/default/files/uploaded-timeline-overview-images/000425_265.jpg)
 
-For more information about Yellow Fever [click here] (https://github.com/ebaberga/yellow-fever/blob/gh-pages/first.md)
 
 ##Introduction
-During my stay at the Bedfor Lab I have worked on building a Phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project I intend to show the possible differences and similarities of the virus in these regions, and make a phylogeography. 
+During my stay at the Bedfor Lab I have worked on building a Phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project I intend to show the differences and similarities the viruses have in these regions, and make a phylogeography to show the distribution.
+
+For more information about Yellow Fever [click here] (https://github.com/ebaberga/yellow-fever/blob/gh-pages/first.md)
+
 ##Project Questions
 1. How similar or Different is yellow fever outbreaks in Africa and South America?
-2. What can we tell about the host variation among this regions?
+2. What can we say about the distribution of Yellow Fever among this regions, East Africa, West Africa, and South America?
+
 
 ###Targeted regions of my project:
 1. East Africa 
 2. West Africa
-3. South Africa
+3. South America
 
 _The reason I chose these regions is because they have redundant outbreaks of Yellow Fever since its discovery in 1927._
 ###Steps towards building my phylogenetic tree:
@@ -52,3 +55,9 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 * [Host Transition Network](figures/yf_host_network.png)
 * [Region Transition Rate](figures/yf_region_bf.png)
 * [Region Transition Network](figures/yf_region_network.png)
+
+Phylogeography of Yellow Fever [VIDEO] (https://www.youtube.com/watch?v=lEQfEna10jc)
+
+[Hypothesis] (result.md)
+
+[What is next] (next.md)
