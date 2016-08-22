@@ -8,7 +8,7 @@
 
 
 ##Introduction
-During my stay at the Bedfor Lab I have worked on building a Phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project I intend to show the differences and similarities the viruses have in these regions, and make a phylogeography to show the distribution.
+During my stay at the Bedford Lab I have worked on building a Phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project I intend to show the differences and similarities the viruses have in these regions, and make a phylogeography to show the distribution.
 
 For more information about Yellow Fever [click here] (https://github.com/ebaberga/yellow-fever/blob/gh-pages/first.md)
 
