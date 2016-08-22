@@ -26,7 +26,7 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 ###Steps towards building my phylogenetic tree:
 1. Downloaded sequences of Yellow Fever virus from Africa and South America. 
 2.  Made a python script using Jupyter Notebook that extracts sequences with a host of monkey, human being or mosquito, and sequences with a countries in  Africa and South America (Brazil & Venezuela).
-3.  Imported my out put file from the script to Geneious. Then used MAFT in Geneious to do my alignments and RAFT to draw a tree. I used command line to do my aligment the second time. 
+3.  Imported my out put file from the script to Geneious. Then used MAFT in Geneious to do my alignments. I used command line to do my aligment the second time. 
 4.  Imported my alignment.fasta file from Geneious to Beauti inorder to add traits I wanted to express in my tree,country, host and region, and to convert the extension of the file from .fasta to .xml.
 5.  Run Beast to infer evolutionary dynamics from sequence data.
 6.  Created an mmc file using tree annotator, and displayed it with Figtree.
