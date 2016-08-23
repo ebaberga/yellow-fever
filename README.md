@@ -10,7 +10,7 @@
 ##Introduction
 During my stay at the Bedford Lab I have worked on building a Phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project I intend to show the differences and similarities the viruses have in these regions, and make a phylogeography to show the distribution.
 
-For more information about Yellow Fever [click here] (https://github.com/ebaberga/yellow-fever/blob/gh-pages/first.md)
+For more information about Yellow Fever [click here] (links/first.md)
 
 ##Project Questions
 1. How similar or Different are yellow fever outbreaks in Africa compared to South America?
@@ -51,10 +51,10 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 
 ##Figures
 
-* [Host Transition Rates](links/yf_host_bf.png)
-* [Host Transition Network](links/yf_host_network.png)
-* [Region Transition Rate](links/yf_region_bf.png)
-* [Region Transition Network](links/yf_region_network.png)
+* [Host Transition Rates](figures/yf_host_bf.png)
+* [Host Transition Network](figures/yf_host_network.png)
+* [Region Transition Rate](figures/yf_region_bf.png)
+* [Region Transition Network](figures/yf_region_network.png)
 
 ###Phylogeography of Yellow Fever [VIDEO] (https://www.youtube.com/watch?v=lEQfEna10jc)
 
@@ -62,6 +62,6 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 	<iframe class="embed-responsive-item" src="http://www.youtube.com/embed/lEQfEna10jc"></iframe>
 </div>
 
-###[Hypothesis](result.md)
+###[Hypothesis](links/result.md)
 
-###[What is next](next.md)
+###[What is next](links/next.md)
