@@ -42,9 +42,8 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 The tree arranged by country shows that the YF originates from Brazil, and on the other hand the tree arranged by region shows that the virus originates from West Africa. According to the country and region probability on the clades of the trees respectively, Brazil has 0.5324 chance  to become an origin, while West Africa has 0.7938 chance. From these I can conclude that YF is originated in West Africa, because the region has more probability to be the ancestor of the tree. 
 
 ##Tree arrange by Host
-West AfricaWest Africa
-![](figures/Host.png)
 
+![](figures/Host.png)
 
 The host transmission tree shows that YF originates from a Mosquito. This makes sense because the virus can only be transmitted through Mosquitos. There is no way the virus will go from a monkey to another monkey, from a human to another human and from a human to a monkey or vise verse.
 
