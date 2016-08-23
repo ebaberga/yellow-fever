@@ -68,6 +68,6 @@ The host transmission tree shows that YF originates from a Mosquito. This makes 
 
 ###[Hypothesis](links/result.md)
 
-On January 20 2016, outbreak of Yellow Fever was reported in Angola...[here] (http://www.ncbi.nlm.nih.gov/pubmed/27156836)
+On January 20 2016, Yellow Fever  outbreak was reported in Angola. There is a very high probablity the virus will spread to Asian countries due to high number of Asian people moving in and out of Angola...[here] (http://www.ncbi.nlm.nih.gov/pubmed/27156836)
 
 ###[What is next](links/next.md)
