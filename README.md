@@ -39,6 +39,8 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 
 ![](figures/Regiontree.png)
 
+The tree arranged by country shows that the YF originates from Brazil, and on the other hand the tree arranged by region shows that the virus originates from West Africa. As shown on the clades of the trees, Brazil has 0.5324 chance  to become the origin, while West Africa has 0.7938 chance. From these I can conclude that YF is originated in West Africa. 
+
 ##Tree arrange by Host
 
 ![](figures/Host.png)
