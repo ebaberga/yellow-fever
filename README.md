@@ -44,6 +44,8 @@ The tree arranged by country shows that the YF originates from Brazil, and on th
 ##Tree arrange by Host
 West AfricaWest Africa
 ![](figures/Host.png)
+
+
 The host transmission tree shows that YF originates from a Mosquito. This makes sense because the virus can only be transmitted through Mosquitos. There is no way the virus will go from a monkey to another monkey, from a human to another human and from a human to a monkey or vise verse.
 
 ####Things I understood from my Phylogenetic trees:
