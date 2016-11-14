@@ -8,11 +8,12 @@
 
 ## 3 ways of Yellow Fever transmission cycle:
 
-1. Sylvatic (Jungle) cycle:is the transmission of YFV between non human primate and mosquito species found in the forest. The virus can go from a monkey to a human via mosquito, if their are humans in the area.
-2. Intermediate (Savannah) cycle: is the transmission of YFV from tree hole breeding Aedenspp to humans in the area, and it is very common in Africa.
-3. Urban cycle: is the transmission of YFV from human to A.aegyptis.
+1. Sylvatic (Jungle) cycle: the transmission of YFV between nonhuman primate and mosquito species found in the forest. The virus can go from a monkey to a human via mosquito if there are humans in the area.
+2. Intermediate (Savannah) cycle: the transmission of YFV from tree hole breeding Aedenspp to humans in the area, and it is very common in Africa.
+3. Urban cycle: the transmission of YFV from human to A.aegyptis.
+
 
 ## Symptoms of Yellow Fever:
 * It takes 6-8 days for the symptoms to show up, and during these time the infection will spread.
-* Initial symptoms include sudden onset of fever, chills, headache, backpain, nausea, vomiting...
+* Initial symptoms include sudden onset of fever, chills, headache, back pain, nausea, vomiting...
 * After a day, 15% cases go to a more severe form of disease like Jaundice, bleeding, shock, organ failure.....
