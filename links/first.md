@@ -1,10 +1,10 @@
 #Yellow Fever 
 
 * Yellow Fever was discovered in 1927. It is common in tropical and subtropical regions, mostly in South America and Africa.
-* It is found in the   Flaviviridae Family and Flavivirus Genius. The virus is also called Arbovirus, because it is transmitted by the help of Arthropod vector (Aedes aegypti mosquitos). 
-* Yellow fever virus has a protein coat called Capsid. Its RNA serves as both the genome and the viral messenger RNA. YF does not have ribosome, so it uses the host cells ribosome to do its job for it (make more proteins to replicate itself).
-* Yellow Fever is not a curable disease, but can be prevented. Its severity ranges from a simple head ache to liver disease with bleeding.
-* YFV enters the host cell via receptor mediated endocytosis (through the vessels on the surface of the cell membrane of the host cell). The evelope protein on the surface of YFV makes fusion and binding with the host cell easier.
+* It is found in the   Flaviviridae Family and Flavivirus Genius. The virus is also called Arbovirus because it is transmitted by the help of Arthropod vector (Aedes aegypti mosquitos). 
+* Yellow fever virus has a protein coat called Capsid. Its RNA serves as both the genome and the viral messenger RNA. YF does not have ribosome, so it uses the host cell's ribosome to do its job for it (make more proteins to replicate itself).
+* Yellow Fever is not a curable disease, but can be prevented. Its severity ranges from a simple headache to liver disease with bleeding.
+* YFV enters the host cell via receptor-mediated endocytosis (through the vessels on the surface of the cell membrane of the host cell). The envelope protein on the surface of YFV makes fusion and binding with the host cell easier.
 
 ## 3 ways of Yellow Fever transmission cycle:
 
