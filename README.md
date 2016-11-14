@@ -6,7 +6,7 @@
 
 ## Introduction
 
-	During my stay at the Bedford Lab, I have worked on building a phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project, I intend to show the differences and similarities the viruses have in these regions and make a phylogeography to show the distribution.
+  During my stay at the Bedford Lab, I have worked on building a phylogenetic tree for Yellow Fever viruses in Africa and South America. With this project, I intend to show the differences and similarities the viruses have in these regions and make a phylogeography to show the distribution.
 
 For more information about Yellow Fever [click here](links/first.md).
 
@@ -39,13 +39,13 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 
 ![](figures/Regiontree.png)
 
-	The tree arranged by country shows that the YF originates from Brazil, and on the other hand the tree arranged by region shows that the virus originates from West Africa. According to the country and region probability on the clades of the trees respectively, Brazil has 0.5324 chance to become an origin, while West Africa has 0.7938 chance. From these, I can conclude that YF is originated in West Africa because the region has more probability to be the ancestor of the tree.
+   The tree arranged by country shows that the YF originates from Brazil, and on the other hand the tree arranged by region shows that the virus originates from West Africa. According to the country and region probability on the clades of the trees respectively, Brazil has 0.5324 chance to become an origin, while West Africa has 0.7938 chance. From these, I can conclude that YF is originated in West Africa because the region has more probability to be the ancestor of the tree.
 
 ## Tree arranged by Host
 
 ![](figures/Host.png)
 
-	The host transmission tree shows that YF originates from a Mosquito. This makes sense because the virus can only be transmitted through Mosquitos. There is no way the virus will go from a monkey to another monkey, from a human to another human and from a human to a monkey or vise verse.
+   The host transmission tree shows that YF originates from a Mosquito. This makes sense because the virus can only be transmitted through Mosquitos. There is no way the virus will go from a monkey to another monkey, from a human to another human and from a human to a monkey or vise verse.
 
 #### Things I understood from my Phylogenetic trees:
 *   Most mosquito samples are taken from African countries, while most human samples are from South America(Brazil and 	Venezuela).
@@ -69,6 +69,6 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 
 ### Recent outbreak of Yellow Fever in Angola
 
-	On January 20 2016, Yellow Fever  outbreak was reported in Angola. There is a very high probablity the virus will spread to Asian countries due to high number of Asian people moving in and out of Angola...[here](http://www.ncbi.nlm.nih.gov/pubmed/27156836)
+   On January 20 2016, Yellow Fever  outbreak was reported in Angola. There is a very high probablity the virus will spread to Asian countries due to high number of Asian people moving in and out of Angola...[here](http://www.ncbi.nlm.nih.gov/pubmed/27156836)
 
 ### [What is next](links/next.md)
