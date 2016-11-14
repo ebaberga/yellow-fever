@@ -45,7 +45,7 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 
 ![](figures/Host.png)
 
-   The host transmission tree shows that YF originates from a Mosquito. This makes sense because the virus can only be transmitted through Mosquitos. There is no way the virus will go from a monkey to another monkey, from a human to another human and from a human to a monkey or vise verse.
+   The host transmission tree shows that YF originates from a Mosquito. This makes sense because the virus can only be transmitted through Mosquitos. There is no way the virus will go from a monkey to another monkey, from a human to another human and from a human to a monkey or vice versa. 
 
 #### Things I understood from my Phylogenetic trees:
 *   Most mosquito samples are taken from African countries, while most human samples are from South America(Brazil and 	Venezuela).
