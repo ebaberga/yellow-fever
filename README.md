@@ -31,6 +31,7 @@ _The reason I chose these regions is because they have redundant outbreaks of Ye
 4.    Imported my alignment.fasta file from Geneious to Beauti in order to add traits I wanted to express in my tree,country, 	    host, and region, and to convert the extension of the file from .fasta to .xml.
 5.    Run Beast to infer evolutionary dynamics from sequence data.
 6.    Created an MCC file using tree annotator, and displayed it with Figtree.
+
 ## Tree arranged by Country
 
 ![](figures/countrytree.png)
